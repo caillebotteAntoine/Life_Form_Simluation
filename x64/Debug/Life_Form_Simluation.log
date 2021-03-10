@@ -1,0 +1,16 @@
+﻿  Loop.cpp
+W:\Développé-Couché\program\C\Life_Form_Simluation\Life_Form_Simluation\BestioleShape.h(76,11): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+W:\Développé-Couché\program\C\Life_Form_Simluation\Life_Form_Simluation\Loop.cpp(79,28): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+W:\Développé-Couché\program\C\Life_Form_Simluation\Life_Form_Simluation\Manager.h(96,33): warning C4244: 'argument' : conversion de '_Ty' en 'float', perte possible de données
+          with
+          [
+              _Ty=unsigned int
+          ]
+W:\Développé-Couché\program\C\Life_Form_Simluation\Life_Form_Simluation\Loop.cpp(19): message : voir la référence à l'instanciation de la fonction modèle 'T &Entity::AddComponent<PolyCollider,Loop::groupLabels,sf::Vector2f,unsigned int,unsigned int,bool>(Loop::groupLabels &&,sf::Vector2f &&,unsigned int &&,unsigned int &&,bool &&)' en cours de compilation
+          with
+          [
+              T=PolyCollider
+          ]
+  Main.cpp
+  Génération de code en cours...
+  Life_Form_Simluation.vcxproj -> W:\Développé-Couché\program\C\Life_Form_Simluation\x64\Debug\Life_Form_Simluation.exe
